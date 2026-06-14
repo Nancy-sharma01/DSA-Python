@@ -1,24 +1,31 @@
-# DSA in Python
-
-This repository contains my daily Data Structures and Algorithms (DSA) practice in Python for placement preparation and coding interview readiness.
-
+🚀 70 Days DSA & Placement Preparation Challenge
 ---
 
-## 🚀 70 Days DSA Challenge
+
 
 **Start Date:** 14 June 2026
 
 ### Challenge Goals
-- Solve at least 1 DSA problem daily
-- Strengthen problem-solving skills
-- Improve Python proficiency
-- Build consistency and discipline
-- Prepare for coding interviews and placements
+- Practice DSA consistently
+- Revise Python fundamentals
+- Strengthen OOP concepts
+- Improve problem-solving skills
+- Build coding discipline
+- Prepare for placements and technical interviews
+- Document daily learning progress on GitHub
 
 ---
 
 ## 📚 Topics Covered
 
+
+### Foundations
+- Python Basics
+- OOP Concepts
+- Time Complexity
+- Space Complexity
+
+### DSA
 - Arrays
 - Strings
 - Searching
@@ -31,12 +38,22 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice 
 - Graphs
 - Dynamic Programming
 
+### Placement Preparation
+- Aptitude
+- Interview Questions
+- Core CS Revision
 ---
 
 ## 📂 Repository Structure
 
-```text
 DSA-Python/
+│
+├── Foundations/
+│   ├── Python_Basics/
+│   ├── OOPs/
+│   ├── Time_Complexity/
+│   └── Space_Complexity/
+│
 ├── Arrays/
 ├── Strings/
 ├── Searching/
@@ -47,6 +64,9 @@ DSA-Python/
 ├── Linked_List/
 ├── Trees/
 ├── Graphs/
-└── Dynamic_Programming/
+├── Dynamic_Programming/
+│
+└── README.md
 
 ---
+
