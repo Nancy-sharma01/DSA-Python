@@ -22,7 +22,7 @@
 
 | Day | Topic | Folder | Status |
 |-----|-------|--------|--------|
-| Day 1 | Python Foundation – Variables, Loops, Functions, Lists, Dicts, Sets, File Handling, Exception Handling | `python-foundation/` | ✅ Done |
+| Day 1 | Python Foundation  | `python-foundation/` | ✅ Done |
 
 ---
 
