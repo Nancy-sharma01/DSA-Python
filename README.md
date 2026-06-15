@@ -1,8 +1,8 @@
 # 🚀 70 Days DSA & Placement Preparation Challenge
 
 **👤 Author:** Nancy Sharma | [GitHub](https://github.com/Nancy-sharma01)
-**📅 Start Date:** 14 June 2026  
-**🏁 End Date:** 22 August 2026  
+**📅 Start Date:** 15 June 2026  
+**🏁 End Date:** 23 August 2026  
 **💻 Language:** Python
 
 ---
