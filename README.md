@@ -20,6 +20,8 @@
 
 ## 🗓️ Progress Tracker
 
+| Day | Topic | Folder | Status |
+|-----|-------|--------|--------|
 | Day 1 | Python Foundation | `python-foundation/` | ✅ Done |
 | Day 2 | Time Complexity & OOP | `time-complexity-oop/` | ✅ Done |
 
