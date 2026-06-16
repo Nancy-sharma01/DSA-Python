@@ -44,7 +44,7 @@ DSA-Python/
 │   └── readme.md
 |
 └── ... (more folders coming daily)
-
+...
 ---
 
 ## 📚 Topics Covered
@@ -60,7 +60,7 @@ DSA-Python/
 
 ## 🔗 Coding Profiles
 
-- 🟡 LeetCode: *(add your profile link)*
+- 🟡 LeetCode: *(will add eventually)*
 
 ---
 
