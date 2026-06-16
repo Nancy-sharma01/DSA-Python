@@ -20,34 +20,30 @@
 
 ## 🗓️ Progress Tracker
 
-| Day | Topic | Folder | Status |
-|-----|-------|--------|--------|
-| Day 1 | Python Foundation  | `python-foundation/` | ✅ Done |
+| Day 1 | Python Foundation | `python-foundation/` | ✅ Done |
+| Day 2 | Time Complexity & OOP | `time-complexity-oop/` | ✅ Done |
 
 ---
 
 ## 📁 Repository Structure
  
 ```
-70-Days-DSA-Challenge/
-│
+DSA-Python/
+|
 ├── README.md
-│
-├── Python-Revision-Day01/
-│   └── notes.md
-│
-├── Complexity-OOP-Day02/
-│   └── notes.md
-│
-├── Arrays-Day03/
-│   ├── two_sum.py
-│   └── max_subarray.py
-│
-├── Searching-Day09/
-│   └── binary_search.py
-│
-└── ...
-```
+|
+├── python-foundation/
+│   ├── basic-revision.py
+│   ├── notes.md
+│   └── readme.md
+|
+├── time-complexity-oop/
+│   ├── complexity_example.py
+│   ├── oop_example.py
+│   ├── notes.md
+│   └── readme.md
+|
+└── ... (more folders coming daily)
 
 ---
 
