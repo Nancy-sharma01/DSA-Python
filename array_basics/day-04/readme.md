@@ -5,10 +5,11 @@
 Today I continued practicing Arrays and focused on strengthening problem-solving skills through LeetCode questions.
 
 ### Concepts Revised
+
 - Array Traversal
 - In-place Array Modification
-- Two-Pointer Technique (Basic)
-- Finding Maximum Subarray Sum
+- Two-Pointer Technique
+- Kadane's Algorithm
 - Time Complexity Analysis
 
 ---
@@ -16,6 +17,7 @@ Today I continued practicing Arrays and focused on strengthening problem-solving
 ## LeetCode Problems Solved
 
 ### 1. Remove Duplicates from Sorted Array (#26)
+
 **Difficulty:** Easy
 
 **Concepts Used:**
@@ -24,12 +26,13 @@ Today I continued practicing Arrays and focused on strengthening problem-solving
 - In-place Modification
 
 **What I Learned:**
-- How to remove duplicates without using extra space.
-- How two pointers can efficiently process a sorted array.
+- Removing duplicates without using extra space.
+- Efficient processing of sorted arrays using two pointers.
 
 ---
 
 ### 2. Remove Element (#27)
+
 **Difficulty:** Easy
 
 **Concepts Used:**
@@ -38,26 +41,27 @@ Today I continued practicing Arrays and focused on strengthening problem-solving
 - In-place Operations
 
 **What I Learned:**
-- How to modify an array while maintaining O(1) extra space.
-- Efficient element removal techniques.
+- Modifying arrays while maintaining O(1) extra space.
+- Efficient element filtering techniques.
 
 ---
 
 ### 3. Maximum Subarray (#53)
+
 **Difficulty:** Medium
 
 **Concepts Used:**
 - Arrays
 - Kadane's Algorithm
-- Dynamic Programming (Basic)
 
 **What I Learned:**
-- How to find the maximum sum contiguous subarray.
-- Understanding Kadane's Algorithm and its efficiency.
+- Finding the maximum sum contiguous subarray.
+- Understanding one of the most important array algorithms used in interviews.
 
 ---
 
 ### 4. Move Zeroes (#283)
+
 **Difficulty:** Easy
 
 **Concepts Used:**
@@ -65,8 +69,8 @@ Today I continued practicing Arrays and focused on strengthening problem-solving
 - Two Pointers
 
 **What I Learned:**
-- How to move all zeroes to the end while maintaining the relative order of non-zero elements.
-- Optimizing array operations using pointer techniques.
+- Moving all zeroes to the end while preserving the order of non-zero elements.
+- Performing array rearrangement in-place.
 
 ---
 
@@ -79,12 +83,16 @@ Today I continued practicing Arrays and focused on strengthening problem-solving
 - LC 53 - Maximum Subarray
 - LC 283 - Move Zeroes
 
+---
+
 ## Key Takeaways
 
-- Improved understanding of array manipulation.
-- Practiced in-place modification techniques.
-- Learned how two-pointer approaches reduce unnecessary operations.
-- Strengthened problem-solving skills with medium-level array questions.
+- Strengthened understanding of array traversal and manipulation.
+- Practiced the Two Pointer technique through multiple problems.
+- Learned how to perform in-place modifications with O(1) extra space.
+- Understood Kadane's Algorithm for finding the Maximum Subarray Sum.
+- Improved problem-solving speed and code optimization skills.
+- Reinforced the importance of Time Complexity analysis while solving array problems.
 
 ---
 
