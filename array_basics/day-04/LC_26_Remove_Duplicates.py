@@ -1,23 +1,33 @@
 """
-LeetCode 27 - Remove Element
+LeetCode 26 - Remove Duplicates from Sorted Array
 
 Approach:
-- Use a pointer k to track the position where the next valid element should be placed.
-- Traverse the array.
-- If the current element is not equal to val, place it at index k.
-- Increment k.
-- Return k as the new length.
+- Since the array is sorted, duplicates will be adjacent.
+- Use a pointer k to track the position of the next unique element.
+- Traverse the array starting from index 1.
+- If the current element is different from the previous unique element,
+  place it at index k and increment k.
+- Return k as the count of unique elements.
 
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
 
 class Solution(object):
-    def removeElement(self, nums, val):
-        k = 0
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
 
-        for i in range(len(nums)):
-            if nums[i] != val:
+        # Handle edge case
+        if not nums:
+            return 0
+
+        k = 1
+
+        for i in range(1, len(nums)):
+            if nums[i] != nums[k - 1]:
                 nums[k] = nums[i]
                 k += 1
 
