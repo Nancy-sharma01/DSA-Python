@@ -24,6 +24,8 @@
 |-----|-------|--------|--------|
 | Day 1 | Python Foundation | `python-foundation/` | ✅ Done |
 | Day 2 | Time Complexity & OOP | `time-complexity-oop/` | ✅ Done |
+| Day 3 | Arrays Part 1 | `array_basics/day-03/` | ✅ Done |
+| Day 4 | Arrays Part 2 | `array_basics/day-04/` | ✅ Done |
 
 ---
 
