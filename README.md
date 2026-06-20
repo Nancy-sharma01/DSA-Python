@@ -75,7 +75,7 @@ DSA-Python/
 
 ## 🔗 Coding Profiles
 
-- 🟡 LeetCode: *(will add eventually)*
+- 🟡 LeetCode: *https://leetcode.com/u/Nancy_83/*
 
 ---
 
