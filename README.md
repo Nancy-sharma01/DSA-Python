@@ -21,14 +21,23 @@
 ## 🗓️ Progress Tracker
 
 | Day   | Topic                          | Folder                 | Status |
-| ----- | ------------------------------ | ---------------------- | ------ |
+| ------| ------------------------------ | ---------------------- | ------ |
 | Day 1 | Python Foundation              | `python-foundation/`   | ✅ Done |
 | Day 2 | Time Complexity & OOP          | `time-complexity-oop/` | ✅ Done |
 | Day 3 | Arrays Part 1                  | `array_basics/day-03/` | ✅ Done |
 | Day 4 | Arrays Part 2                  | `array_basics/day-04/` | ✅ Done |
 | Day 5 | Two Pointers & Prefix Products | `array_basics/day-05/` | ✅ Done |
+| Day 6 | Two Pointers & Arrays          | `array_basics/day-06/` | ✅ Done |
 
 ---
+
+## 📊 Current Progress
+
+- Days Completed: **6 / 70**
+- LeetCode Problems Solved: **10**
+- Current Challenge Streak: **6 Days**
+- GitHub Commits: **Daily**
+- Status: **Consistent 🚀**
 
 ## 📁 Repository Structure
  
@@ -48,7 +57,7 @@ DSA-Python/
 │   ├── notes.md
 │   └── readme.md
 |
-└── ... (more folders coming daily)
+└── ...
 ````
 
 ---
