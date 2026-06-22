@@ -36,9 +36,9 @@
 
 ## 📊 Current Progress
 
-- Days Completed: **7 / 70**
-- LeetCode Problems Solved: **12**
-- Current Challenge Streak: **7 Days**
+- Days Completed: **8 / 70**
+- LeetCode Problems Solved: **14**
+- Current Challenge Streak: **8 Days**
 - GitHub Commits: **Daily**
 - Status: **Consistent 🚀**
 
