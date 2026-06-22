@@ -28,7 +28,9 @@
 | Day 4 | Arrays Part 2                  | `array_basics/day-04/` | ✅ Done |
 | Day 5 | Two Pointers & Prefix Products | `array_basics/day-05/` | ✅ Done |
 | Day 6 | Two Pointers & Arrays          | `array_basics/day-06/` | ✅ Done |
-| Day 6 | 2D Arrays & Two Pointers       | `array_basics/day-07/` | ✅ Done |
+| Day 7 | 2D Arrays & Two Pointers       | `array_basics/day-07/` | ✅ Done |
+| Day 8 |  Two Pointers                  | `array_basics/day-08/` | ✅ Done |
+
 
 ---
 
