@@ -37,11 +37,11 @@
 
 ## 📊 Current Progress
 
-- Days Completed: **9 / 70**
-- LeetCode Problems Solved: **14**
-- Current Challenge Streak: **9 Days**
-- GitHub Commits: **Daily**
-- Status: **Consistent 🚀**
+Days Completed: 9 / 70
+LeetCode Problems Solved: 14
+Challenge Progress: Day 9 Completed
+GitHub Commits: Regular
+Status: Consistent Learning 🚀
 
 ## 📁 Repository Structure
  
