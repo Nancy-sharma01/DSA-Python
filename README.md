@@ -31,17 +31,19 @@
 | Day 7 | 2D Arrays & Two Pointers        | `array_basics/day-07/`              | ✅ Done |
 | Day 8 | Two Pointers Practice           | `2-pointers/day-08/`                | ✅ Done |
 | Day 9 | Array Revision & Patterns       | `DSA-Python/array-revision-day-09/` | ✅ Done |
-| Day 10| Strings Basics                  | `strings/day-10/`                   | ⏳ Next |
+| Day 10| Strings Basics                  | `strings/day-10/`                   | ✅ Done |
 
 ---
 
 ## 📊 Current Progress
 
-Days Completed: 9 / 70
-LeetCode Problems Solved: 14
-Challenge Progress: Day 9 Completed
-GitHub Commits: Regular
-Status: Consistent Learning 🚀
+| Metric | Status |
+|---|---|
+| Days Completed | 10 / 70 |
+| LeetCode Problems Solved | 14 |
+| Challenge Progress | Day 10 Completed |
+| GitHub Commits | Regular |
+| Status | Consistent Learning 🚀 
 
 ## 📁 Repository Structure
  
