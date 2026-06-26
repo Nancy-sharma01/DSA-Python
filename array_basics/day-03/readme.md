@@ -1,8 +1,5 @@
 # Day 3 - Arrays Basics & LeetCode Practice
 
-## 📅 Date
-17 June 2026
-
 ## 🎯 Goal
 Continue the 70 Days DSA Challenge with basic array practice and problem solving.
 
