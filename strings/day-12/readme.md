@@ -32,15 +32,6 @@
 
 ---
 
-## 📊 Progress
-
-- **Challenge Day:** 12 / 70
-- **Topic:** Strings (Day 2)
-- **Problems Solved Today:** 2
-- **Total LeetCode Problems Solved:** 16
-
----
-
 ## 💭 Reflection
 
 Today's problems reinforced the importance of understanding the problem before jumping into coding. I initially overcomplicated the approach for Reverse String II, but after shifting to a block-based mindset, the solution became much clearer. Small mindset changes can make a big difference in problem-solving.
