@@ -32,6 +32,8 @@
 | Day 8 | Two Pointers Practice           | `2-pointers/day-08/`                | ✅ Done |
 | Day 9 | Array Revision & Patterns       | `DSA-Python/array-revision-day-09/` | ✅ Done |
 | Day 10| Strings Basics                  | `strings/day-10/`                   | ✅ Done |
+| Day 11| Strings leetcode practice       | `strings/day-11/`                   | ✅ Done |
+| Day 12| Strings leetcode practice       | `strings/day-12/`                   | ✅ Done |
 
 ---
 
@@ -39,9 +41,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 10 / 70 |
-| LeetCode Problems Solved | 14 |
-| Challenge Progress | Day 10 Completed |
+| Days Completed | 12 / 70 |
+| LeetCode Problems Solved | 17 |
+| Challenge Progress | Day 12 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
