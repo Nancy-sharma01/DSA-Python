@@ -1,8 +1,6 @@
 # 🚀 70 Days DSA & Placement Preparation Challenge
 
 **👤 Author:** Nancy Sharma | [GitHub](https://github.com/Nancy-sharma01)
-**📅 Start Date:** 15 June 2026  
-**🏁 End Date:** 23 August 2026  
 **💻 Language:** Python
 
 ---
@@ -34,6 +32,8 @@
 | Day 10| Strings Basics                  | `strings/day-10/`                   | ✅ Done |
 | Day 11| Strings leetcode practice       | `strings/day-11/`                   | ✅ Done |
 | Day 12| Strings leetcode practice       | `strings/day-12/`                   | ✅ Done |
+| Day 13| Strings leetcode practice       | `strings/day-13/`                   | ✅ Done |
+| Day 14| Sliding window concept          | `sliding-window-concept/day-14/`    | ✅ Done |
 
 ---
 
@@ -41,9 +41,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 12 / 70 |
-| LeetCode Problems Solved | 17 |
-| Challenge Progress | Day 12 Completed |
+| Days Completed | 14 / 70 |
+| LeetCode Problems Solved | 19 |
+| Challenge Progress | Day 14 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
