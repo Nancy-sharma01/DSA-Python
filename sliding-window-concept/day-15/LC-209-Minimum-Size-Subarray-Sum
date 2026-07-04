@@ -1,0 +1,43 @@
+class Solution(object):
+    def minSubArrayLen(self, target, nums):
+        """
+        :type target: int
+        :type nums: List[int]
+        :rtype: int
+        """
+
+        # Left pointer of the sliding window
+        left = 0
+
+        # Stores the sum of the current window
+        current_sum = 0
+
+        # Initialize with infinity so any valid window length is smaller
+        min_length = float('inf')
+
+        # Expand the window by moving the right pointer
+        for right in range(len(nums)):
+            # Include the current element in the window
+            current_sum += nums[right]
+
+            # Shrink the window while it satisfies the target condition
+            while current_sum >= target:
+
+                # Calculate the current window length
+                window_len = right - left + 1
+
+                # Update the minimum window length found so far
+                min_length = min(min_length, window_len)
+
+                # Remove the leftmost element from the window
+                current_sum -= nums[left]
+
+                # Move the left pointer to shrink the window
+                left += 1
+
+        # If no valid subarray was found, return 0
+        if min_length == float('inf'):
+            return 0
+
+        # Otherwise, return the minimum length found
+        return min_length
