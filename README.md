@@ -1,4 +1,4 @@
-# 🚀 45 Days DSA Preparation Challenge
+# 🚀 60 Days DSA Preparation Challenge
 
 **👤 Author:** Nancy Sharma | [GitHub](https://github.com/Nancy-sharma01)
 **💻 Language:** Python
