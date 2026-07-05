@@ -1,0 +1,23 @@
+class Solution(object):
+    def longestSubstring(self, s, k):
+        """
+        :type s: str
+        :type k: int
+        :rtype: int
+        """
+        if not s or k > len(s):
+            return 0
+        
+        # Count frequency of each character
+        count = {}
+        for char in s:
+            count[char] = count.get(char, 0) + 1
+            
+        # Find the first character that violates the frequency rule
+        for char in count:
+            if count[char] < k:
+                # Split at the invalid character and recursively check parts
+                return max([self.longestSubstring(sub, k) for sub in s.split(char)])
+                
+        # If all characters meet the requirement, the entire string is valid
+        return len(s)
