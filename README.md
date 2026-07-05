@@ -1,4 +1,4 @@
-# 🚀 70 Days DSA & Placement Preparation Challenge
+# 🚀 45 Days DSA Preparation Challenge
 
 **👤 Author:** Nancy Sharma | [GitHub](https://github.com/Nancy-sharma01)
 **💻 Language:** Python
@@ -9,9 +9,7 @@
 
 - Practice DSA consistently with daily problem solving
 - Revise Python fundamentals and OOP concepts
-- Strengthen core CS subjects (DBMS, OS, CN)
 - Build problem-solving speed and pattern recognition
-- Prepare for placements and technical interviews
 - Document daily progress publicly on GitHub
 
 ---
@@ -77,8 +75,6 @@ DSA-Python/
 |----------|--------|
 | **Foundations** | Python Basics, OOP, Time Complexity, Space Complexity |
 | **DSA** | Arrays, Strings, Searching, Sorting, Recursion, Stack, Queue, Linked List, Trees, Graphs, Dynamic Programming |
-| **Core CS** | DBMS, Operating Systems, Computer Networks |
-| **Placement Prep** | Aptitude, HR + Technical Interview Questions |
 
 ---
 
