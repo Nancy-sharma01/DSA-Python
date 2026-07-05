@@ -32,7 +32,8 @@
 | Day 12| Strings leetcode practice       | `strings/day-12/`                   | ✅ Done |
 | Day 13| Strings leetcode practice       | `strings/day-13/`                   | ✅ Done |
 | Day 14| Sliding window concept          | `sliding-window-concept/day-14/`    | ✅ Done |
-| Day 15| Sliding window concept          | `sliding-window-concept/day-15/`    | ✅ Done |
+| Day 15| Sliding window practice         | `sliding-window-concept/day-15/`    | ✅ Done |
+| Day 16| Sliding window practice         | `sliding-window-concept/day-16/`    | ✅ Done |
 
 ---
 
@@ -40,9 +41,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 15 / 70 |
-| LeetCode Problems Solved | 21 |
-| Challenge Progress | Day 15 Completed |
+| Days Completed | 16 / 70 |
+| LeetCode Problems Solved | 22 |
+| Challenge Progress | Day 16 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
