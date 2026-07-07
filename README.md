@@ -34,6 +34,7 @@
 | Day 14| Sliding window concept          | `sliding-window-concept/day-14/`    | ✅ Done |
 | Day 15| Sliding window practice         | `sliding-window-concept/day-15/`    | ✅ Done |
 | Day 16| Sliding window practice         | `sliding-window-concept/day-16/`    | ✅ Done |
+| Day 17| Hashmap concept                 | `Hashmap/day-17`                    | ✅ Done |
 
 ---
 
@@ -41,9 +42,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 16 / 70 |
-| LeetCode Problems Solved | 22 |
-| Challenge Progress | Day 16 Completed |
+| Days Completed | 17 / 70 |
+| LeetCode Problems Solved | 23 |
+| Challenge Progress | Day 17 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
