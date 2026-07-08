@@ -35,7 +35,7 @@
 | Day 15| Sliding window practice         | `sliding-window-concept/day-15/`    | ✅ Done |
 | Day 16| Sliding window practice         | `sliding-window-concept/day-16/`    | ✅ Done |
 | Day 17| Hashmap concept                 | `Hashmap/day-17`                    | ✅ Done |
-| Day 17| Hashmap leetcode practice       | `Hashmap/day-18`                    | ✅ Done |
+| Day 18| Hashmap leetcode practice       | `Hashmap/day-18`                    | ✅ Done |
 
 ---
 
