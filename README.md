@@ -39,6 +39,7 @@
 | Day 19| Hashmap leetcode practice       | `Hashmap/day-19`                    | ✅ Done |
 | Day 20| Hashmap leetcode practice       | `Hashmap/day-20`                    | ✅ Done |
 | Day 21| Hashmap leetcode practice       | `Hashmap/day-21`                    | ✅ Done |
+| Day 22| Hashset leetcode                | `Hashset/day-22`                    | ✅ Done |
 
 ---
 
@@ -46,9 +47,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 21 / 70 |
-| LeetCode Problems Solved | 30 |
-| Challenge Progress | Day 21 Completed |
+| Days Completed | 22 / 70 |
+| LeetCode Problems Solved | 32 |
+| Challenge Progress | Day 22 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
