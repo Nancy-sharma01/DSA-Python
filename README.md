@@ -42,6 +42,7 @@
 | Day 22| Hashset leetcode                | `Hashset/day-22`                    | ✅ Done |
 | Day 23| Stack concept and leetcode      | `stack/day-23`                      | ✅ Done |
 | Day 24| Stack leetcode Practice         | `stack/day-24`                      | ✅ Done |
+| Day 25| Stack leetcode Practice         | `stack/day-25`                      | ✅ Done |
 
 ---
 
@@ -49,9 +50,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 24 / 70 |
-| LeetCode Problems Solved | 34 |
-| Challenge Progress | Day 24 Completed |
+| Days Completed | 25 / 70 |
+| LeetCode Problems Solved | 36 |
+| Challenge Progress | Day 25 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
