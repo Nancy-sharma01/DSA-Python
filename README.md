@@ -43,6 +43,7 @@
 | Day 23| Stack concept and leetcode      | `stack/day-23`                      | ✅ Done |
 | Day 24| Stack leetcode Practice         | `stack/day-24`                      | ✅ Done |
 | Day 25| Stack leetcode Practice         | `stack/day-25`                      | ✅ Done |
+| Day 26| Stack leetcode Practice         | `stack/day-26`                      | ✅ Done |
 
 ---
 
@@ -50,9 +51,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 25 / 70 |
-| LeetCode Problems Solved | 36 |
-| Challenge Progress | Day 25 Completed |
+| Days Completed | 26 / 70 |
+| LeetCode Problems Solved | 37 |
+| Challenge Progress | Day 26 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
