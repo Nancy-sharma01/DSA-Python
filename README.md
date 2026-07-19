@@ -44,6 +44,7 @@
 | Day 24| Stack leetcode Practice         | `stack/day-24`                      | ✅ Done |
 | Day 25| Stack leetcode Practice         | `stack/day-25`                      | ✅ Done |
 | Day 26| Stack leetcode Practice         | `stack/day-26`                      | ✅ Done |
+| Day 27| Linked List                     | `Linked List/day-27`                | ✅ Done |
 
 ---
 
@@ -51,9 +52,9 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 26 / 70 |
-| LeetCode Problems Solved | 37 |
-| Challenge Progress | Day 26 Completed |
+| Days Completed | 27 / 70 |
+| LeetCode Problems Solved | 39 |
+| Challenge Progress | Day 27 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
