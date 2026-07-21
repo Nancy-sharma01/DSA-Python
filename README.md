@@ -16,36 +16,36 @@
 
 ## 🗓️ Progress Tracker
 
-| Day   | Topic                           | Folder                              | Status |
-| ------| ------------------------------- | ----------------------------------- | ------ |
-| Day 1 | Python Foundation               | `python-foundation/`                | ✅ Done |
-| Day 2 | Time Complexity & OOP           | `time-complexity-oop/`              | ✅ Done |
-| Day 3 | Arrays Part 1                   | `array_basics/day-03/`              | ✅ Done |
-| Day 4 | Arrays Part 2                   | `array_basics/day-04/`              | ✅ Done |
-| Day 5 | Two Pointers & Prefix Products  | `array_basics/day-05/`              | ✅ Done |
-| Day 6 | Two Pointers & Arrays           | `array_basics/day-06/`              | ✅ Done |
-| Day 7 | 2D Arrays & Two Pointers        | `array_basics/day-07/`              | ✅ Done |
-| Day 8 | Two Pointers leetcode Practice  | `2-pointers/day-08/`                | ✅ Done |
-| Day 9 | Array Revision & Patterns       | `DSA-Python/array-revision-day-09/` | ✅ Done |
-| Day 10| Strings Basics                  | `strings/day-10/`                   | ✅ Done |
-| Day 11| Strings leetcode practice       | `strings/day-11/`                   | ✅ Done |
-| Day 12| Strings leetcode practice       | `strings/day-12/`                   | ✅ Done |
-| Day 13| Strings leetcode practice       | `strings/day-13/`                   | ✅ Done |
-| Day 14| Sliding window concept          | `sliding-window-concept/day-14/`    | ✅ Done |
-| Day 15| Sliding window practice         | `sliding-window-concept/day-15/`    | ✅ Done |
-| Day 16| Sliding window practice         | `sliding-window-concept/day-16/`    | ✅ Done |
-| Day 17| Hashmap concept                 | `Hashmap/day-17`                    | ✅ Done |
-| Day 18| Hashmap leetcode practice       | `Hashmap/day-18`                    | ✅ Done |
-| Day 19| Hashmap leetcode practice       | `Hashmap/day-19`                    | ✅ Done |
-| Day 20| Hashmap leetcode practice       | `Hashmap/day-20`                    | ✅ Done |
-| Day 21| Hashmap leetcode practice       | `Hashmap/day-21`                    | ✅ Done |
-| Day 22| Hashset leetcode                | `Hashset/day-22`                    | ✅ Done |
-| Day 23| Stack concept and leetcode      | `stack/day-23`                      | ✅ Done |
-| Day 24| Stack leetcode Practice         | `stack/day-24`                      | ✅ Done |
-| Day 25| Stack leetcode Practice         | `stack/day-25`                      | ✅ Done |
-| Day 26| Stack leetcode Practice         | `stack/day-26`                      | ✅ Done |
-| Day 27| Linked List                     | `Linked List/day-27`                | ✅ Done |
-| Day 28| Linked List                     | `Linked List/day-28`                | ✅ Done |
+| Day   | Topic                              | Folder                              | Status |
+| ------| ---------------------------------- | ----------------------------------- | ------ |
+| Day 1 | Python Foundation                  | `python-foundation/`                | ✅ Done |
+| Day 2 | Time Complexity & OOP              | `time-complexity-oop/`              | ✅ Done |
+| Day 3 | Arrays Part 1                      | `array_basics/day-03/`              | ✅ Done |
+| Day 4 | Arrays Part 2                      | `array_basics/day-04/`              | ✅ Done |
+| Day 5 | Two Pointers & Prefix Products     | `array_basics/day-05/`              | ✅ Done |
+| Day 6 | Two Pointers & Arrays              | `array_basics/day-06/`              | ✅ Done |
+| Day 7 | 2D Arrays & Two Pointers           | `array_basics/day-07/`              | ✅ Done |
+| Day 8 | Two Pointers leetcode Practice     | `2-pointers/day-08/`                | ✅ Done |
+| Day 9 | Array Revision & Patterns          | `DSA-Python/array-revision-day-09/` | ✅ Done |
+| Day 10| Strings Basics                     | `strings/day-10/`                   | ✅ Done |
+| Day 11| Strings leetcode practice          | `strings/day-11/`                   | ✅ Done |
+| Day 12| Strings leetcode practice          | `strings/day-12/`                   | ✅ Done |
+| Day 13| Strings leetcode practice          | `strings/day-13/`                   | ✅ Done |
+| Day 14| Sliding window concept             | `sliding-window-concept/day-14/`    | ✅ Done |
+| Day 15| Sliding window practice            | `sliding-window-concept/day-15/`    | ✅ Done |
+| Day 16| Sliding window practice            | `sliding-window-concept/day-16/`    | ✅ Done |
+| Day 17| Hashmap concept                    | `Hashmap/day-17`                    | ✅ Done |
+| Day 18| Hashmap leetcode practice          | `Hashmap/day-18`                    | ✅ Done |
+| Day 19| Hashmap leetcode practice          | `Hashmap/day-19`                    | ✅ Done |
+| Day 20| Hashmap leetcode practice          | `Hashmap/day-20`                    | ✅ Done |
+| Day 21| Hashmap leetcode practice          | `Hashmap/day-21`                    | ✅ Done |
+| Day 22| Hashset leetcode                   | `Hashset/day-22`                    | ✅ Done |
+| Day 23| Stack concept and leetcode         | `stack/day-23`                      | ✅ Done |
+| Day 24| Stack leetcode Practice            | `stack/day-24`                      | ✅ Done |
+| Day 25| Stack leetcode Practice            | `stack/day-25`                      | ✅ Done |
+| Day 26| Stack leetcode Practice            | `stack/day-26`                      | ✅ Done |
+| Day 27| Linked List concept and leetcode   | `Linked List/day-27`                | ✅ Done |
+| Day 28| Linked List leetcode practice      | `Linked List/day-28`                | ✅ Done |
 
 ---
 
