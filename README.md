@@ -44,7 +44,7 @@
 | Day 24| Stack leetcode Practice            | `stack/day-24`                      | ✅ Done |
 | Day 25| Stack leetcode Practice            | `stack/day-25`                      | ✅ Done |
 | Day 26| Stack leetcode Practice            | `stack/day-26`                      | ✅ Done |
-| Day 27| Linked List concept and leetcode   | `Linked List/day-27`                | ✅ Done |
+| Day 27| Linked List basicconcept and leetcode| `Linked List/day-27`                | ✅ Done |
 | Day 28| Linked List leetcode practice      | `Linked List/day-28`                | ✅ Done |
 
 ---
