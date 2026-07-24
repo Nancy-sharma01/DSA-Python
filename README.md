@@ -53,9 +53,8 @@
 
 | Metric | Status |
 |---|---|
-| Days Completed | 28 / 70 |
+| Challenge Progress| 28 / 70 |
 | LeetCode Problems Solved | 40 |
-| Challenge Progress | Day 28 Completed |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
