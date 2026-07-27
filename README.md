@@ -47,6 +47,7 @@
 | Day 27| Linked List basic concept and leetcode| `Linked List/day-27`                | ✅ Done |
 | Day 28| Linked List leetcode practice      | `Linked List/day-28`                | ✅ Done |
 | Day 29| Linked List leetcode practice      | `Linked List/day-29`                | ✅ Done |
+| Day 30| Linked List leetcode practice      | `Linked List/day-30`                | ✅ Done |
 
 ---
 
@@ -54,8 +55,8 @@
 
 | Metric | Status |
 |---|---|
-| Challenge Progress| 29 / 70 |
-| LeetCode Problems Solved | 41 |
+| Challenge Progress| 30 / 70 |
+| LeetCode Problems Solved | 42 |
 | GitHub Commits | Regular |
 | Status | Consistent Learning 🚀 
 
