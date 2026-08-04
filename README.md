@@ -44,11 +44,12 @@
 | Day 24| Stack leetcode Practice            | `stack/day-24`                      | ✅ Done |
 | Day 25| Stack leetcode Practice            | `stack/day-25`                      | ✅ Done |
 | Day 26| Stack leetcode Practice            | `stack/day-26`                      | ✅ Done |
-| Day 27| Linked List basic concept and leetcode| `Linked List/day-27`                | ✅ Done |
-| Day 28| Linked List leetcode practice      | `Linked List/day-28`                | ✅ Done |
-| Day 29| Linked List leetcode practice      | `Linked List/day-29`                | ✅ Done |
-| Day 30| Linked List leetcode practice      | `Linked List/day-30`                | ✅ Done |
-| Day 31| Linked List leetcode practice      | `Linked List/day-31`                | ✅ Done |
+| Day 27| Linked List basic concept and leetcode| `Linked List/leetcode/day-27`    | ✅ Done |
+| Day 28| Linked List leetcode practice      | `Linked List/leetcode/day-28`       | ✅ Done |
+| Day 29| Linked List leetcode practice      | `Linked List/leetcode/day-29`       | ✅ Done |
+| Day 30| Linked List leetcode practice      | `Linked List/leetcode/day-30`       | ✅ Done |
+| Day 31| Linked List leetcode practice      | `Linked List/leetcode/day-31`       | ✅ Done |
+| Day 32| Linked List HackerRank practice    | `Linked List/Hacker_rank/day-32`  | ✅ Done |
 
 ---
 
