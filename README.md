@@ -21,12 +21,12 @@
 | ------| ---------------------------------- | ----------------------------------- | ------ |
 | Day 1 | Python Foundation                  | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/01-Foundations/python-foundation)   | ✅ Done |
 | Day 2 | Time Complexity & OOP              | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/01-Foundations/time-complexity-oop)| ✅ Done |
-| Day 3 | Arrays Part 1                      | `02-Data-Structures/array_basics/day-03/`              | ✅ Done |
-| Day 4 | Arrays Part 2                      | `02-Data-Structures/array_basics/day-04/`              | ✅ Done |
-| Day 5 | Two Pointers & Prefix Products     | `02-Data-Structures/array_basics/day-05/`              | ✅ Done |
-| Day 6 | Two Pointers & Arrays              | `02-Data-Structures/array_basics/day-06/`              | ✅ Done |
-| Day 7 | 2D Arrays & Two Pointers           | `02-Data-Structures/array_basics/day-07/`              | ✅ Done |
-| Day 8 | Two Pointers leetcode Practice     | `02-Data-Structures/2-pointers/day-08/`                | ✅ Done |
+| Day 3 | Arrays Part 1                      | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array_basics/day-03)             | ✅ Done |
+| Day 4 | Arrays Part 2                      |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array_basics/day-04)             | ✅ Done |
+| Day 5 | Two Pointers & Prefix Products     |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array_basics/day-05)              | ✅ Done |
+| Day 6 | Two Pointers & Arrays              |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array_basics/day-06)            | ✅ Done |
+| Day 7 | 2D Arrays & Two Pointers           |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array_basics/day-07)            | ✅ Done |
+| Day 8 | Two Pointers leetcode Practice     |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/2-pointers/day-08) | ✅ Done |
 | Day 9 | Array Revision & Patterns          | `DSA-Python/02-Data-Structures/array-revision-day-09/` | ✅ Done |
 | Day 10| Strings Basics(theory and understanding)| `02-Data-Structures/strings/day-10/`                   | ✅ Done |
 | Day 11| Strings leetcode practice          | `02-Data-Structures/strings/day-11/`                   | ✅ Done |
