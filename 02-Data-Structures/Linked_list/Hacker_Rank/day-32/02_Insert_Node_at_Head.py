@@ -7,4 +7,4 @@ Platform: HackerRank
 def insertNodeAtHead(head, data):
     new_node = SinglyLinkedListNode(data)
     new_node.next = head
-    return new_node
+    return new_nodes
