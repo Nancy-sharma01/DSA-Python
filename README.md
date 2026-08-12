@@ -20,7 +20,7 @@
 | Day   | Topic                              | Folder                              | Status |
 | ------| ---------------------------------- | ----------------------------------- | ------ |
 | Day 1 | Python Foundation                  | [view](https://github.com/Nancy-sharma01/DSA-Python/tree/main/01-Foundations/python-foundation) ↗️  | ✅ Done |
-| Day 2 | Time Complexity & OOP              | `01-Foundation/time-complexity-oop/`| ✅ Done |
+| Day 2 | Time Complexity & OOP              | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/01-Foundations/time-complexity-oop)| ✅ Done |
 | Day 3 | Arrays Part 1                      | `02-Data-Structures/array_basics/day-03/`              | ✅ Done |
 | Day 4 | Arrays Part 2                      | `02-Data-Structures/array_basics/day-04/`              | ✅ Done |
 | Day 5 | Two Pointers & Prefix Products     | `02-Data-Structures/array_basics/day-05/`              | ✅ Done |
