@@ -28,9 +28,9 @@
 | Day 7 | 2D Arrays & Two Pointers           |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array_basics/day-07)            | ✅ Done |
 | Day 8 | Two Pointers leetcode Practice     |  [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/2-pointers/day-08) | ✅ Done |
 | Day 9 | Array Revision & Patterns          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/array-revision-day-09) | ✅ Done |
-| Day 10| Strings Basics(theory and understanding)| `02-Data-Structures/strings/day-10/`                   | ✅ Done |
-| Day 11| Strings leetcode practice          | `02-Data-Structures/strings/day-11/`                   | ✅ Done |
-| Day 12| Strings leetcode practice          | `02-Data-Structures/strings/day-12/`                   | ✅ Done |
+| Day 10| Strings Basics(theory and understanding)| [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/strings/day-10)                  | ✅ Done |
+| Day 11| Strings leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/strings/day-11)                | ✅ Done |
+| Day 12| Strings leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/strings/day-12)                    | ✅ Done |
 | Day 13| Strings leetcode practice          | `02-Data-Structures/strings/day-13/`                   | ✅ Done |
 | Day 14| Sliding window concept             | `02-Data-Structures/sliding-window-concept/day-14/`    | ✅ Done |
 | Day 15| Sliding window practice            | `02-Data-Structures/sliding-window-concept/day-15/`    | ✅ Done |
