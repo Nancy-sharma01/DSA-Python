@@ -34,7 +34,7 @@
 | Day 13| Strings leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/strings/day-13)                  | ✅ Done |
 | Day 14| Sliding window concept             | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/sliding-window-concept/day-14) | ✅ Done |
 | Day 15| Sliding window practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/sliding-window-concept/day-15)     | ✅ Done |
-| Day 16| Sliding window practice            | `02-Data-Structures/sliding-window-concept/day-16/`    | ✅ Done |
+| Day 16| Sliding window practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/sliding-window-concept/day-16)     | ✅ Done |
 | Day 17| Hashmap concept                    | `02-Data-Structures/Hashmap/day-17`                    | ✅ Done |
 | Day 18| Hashmap leetcode practice          | `02-Data-Structures/Hashmap/day-18`                    | ✅ Done |
 | Day 19| Hashmap leetcode practice          | `02-Data-Structures/Hashmap/day-19`                    | ✅ Done |
