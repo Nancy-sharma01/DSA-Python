@@ -47,7 +47,7 @@
 
 ## 💪 Progress
 
-* **DSA Challenge:** Day 14 ✅
+* **DSA Challenge:** Day 15 ✅
 * **Problems Solved Today:** 2
 * **Topic:** Sliding Window
 
