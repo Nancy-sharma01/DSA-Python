@@ -44,7 +44,7 @@
 | Day 23| Stack concept and leetcode         | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/stack/day-23) | ✅ Done |
 | Day 24| Stack leetcode Practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/stack/day-24) | ✅ Done |
 | Day 25| Stack leetcode Practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/stack/day-25) | ✅ Done |
-| Day 26| Stack leetcode Practice            | `02-Data-Structures/stack/day-26`                      | ✅ Done |
+| Day 26| Stack leetcode Practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/stack/day-26) | ✅ Done |
 | Day 27| Linked List basic concept and leetcode| `02-Data-Structures/Linked List/leetcode/day-27`    | ✅ Done |
 | Day 28| Linked List leetcode practice      | `02-Data-Structures/Linked List/leetcode/day-28`       | ✅ Done |
 | Day 29| Linked List leetcode practice      | `02-Data-Structures/Linked List/leetcode/day-29`       | ✅ Done |
