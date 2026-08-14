@@ -40,7 +40,7 @@
 | Day 19| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-19)   | ✅ Done |
 | Day 20| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-20)  | ✅ Done |
 | Day 21| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-21)  | ✅ Done |
-| Day 22| Hashset leetcode                   | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashset/day-22)  | ✅ Done |
+| Day 22| Hashset leetcode                   | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/hashset/day-22)  | ✅ Done |
 | Day 23| Stack concept and leetcode         | `02-Data-Structures/stack/day-23`                      | ✅ Done |
 | Day 24| Stack leetcode Practice            | `02-Data-Structures/stack/day-24`                      | ✅ Done |
 | Day 25| Stack leetcode Practice            | `02-Data-Structures/stack/day-25`                      | ✅ Done |
