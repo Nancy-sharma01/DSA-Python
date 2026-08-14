@@ -35,12 +35,12 @@
 | Day 14| Sliding window concept             | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/sliding-window-concept/day-14) | ✅ Done |
 | Day 15| Sliding window practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/sliding-window-concept/day-15)     | ✅ Done |
 | Day 16| Sliding window practice            | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/sliding-window-concept/day-16)     | ✅ Done |
-| Day 17| Hashmap concept                    | `02-Data-Structures/Hashmap/day-17`                    | ✅ Done |
-| Day 18| Hashmap leetcode practice          | `02-Data-Structures/Hashmap/day-18`                    | ✅ Done |
-| Day 19| Hashmap leetcode practice          | `02-Data-Structures/Hashmap/day-19`                    | ✅ Done |
-| Day 20| Hashmap leetcode practice          | `02-Data-Structures/Hashmap/day-20`                    | ✅ Done |
-| Day 21| Hashmap leetcode practice          | `02-Data-Structures/Hashmap/day-21`                    | ✅ Done |
-| Day 22| Hashset leetcode                   | `02-Data-Structures/Hashset/day-22`                    | ✅ Done |
+| Day 17| Hashmap concept                    | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-17) |✅Done |
+| Day 18| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-18)  | ✅ Done |
+| Day 19| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-19)   | ✅ Done |
+| Day 20| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-20)  | ✅ Done |
+| Day 21| Hashmap leetcode practice          | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashmap/day-21)  | ✅ Done |
+| Day 22| Hashset leetcode                   | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Hashset/day-22)  | ✅ Done |
 | Day 23| Stack concept and leetcode         | `02-Data-Structures/stack/day-23`                      | ✅ Done |
 | Day 24| Stack leetcode Practice            | `02-Data-Structures/stack/day-24`                      | ✅ Done |
 | Day 25| Stack leetcode Practice            | `02-Data-Structures/stack/day-25`                      | ✅ Done |
