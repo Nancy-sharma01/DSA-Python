@@ -50,7 +50,7 @@
 | Day 29| Linked List leetcode practice      | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Linked_list/Leetcode/day-29)  | ✅ Done |
 | Day 30| Linked List leetcode practice      | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Linked_list/Leetcode/day-30)  | ✅ Done |
 | Day 31| Linked List leetcode practice      | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Linked_list/Leetcode/day-31)  | ✅ Done |
-| Day 32| Linked List HackerRank practice    | `02-Data-Structures/Linked List/Hacker_rank/day-32`  | ✅ Done |
+| Day 32| Linked List HackerRank practice    | [view ↗️](https://github.com/Nancy-sharma01/DSA-Python/tree/main/02-Data-Structures/Linked_list/Hacker_Rank/day-32) | ✅ Done |
 
 ---
 
