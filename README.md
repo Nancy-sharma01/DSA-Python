@@ -1,6 +1,7 @@
 # 🚀 70 Days DSA Preparation Challenge
 
 **👤 Author:** Nancy Sharma | [GitHub](https://github.com/Nancy-sharma01)
+
 **💻 Language:** Python
 
 ---
