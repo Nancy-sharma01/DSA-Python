@@ -8,11 +8,11 @@
 
 ## 🎯 Challenge Goals
 
--Practice DSA consistently with daily problem solving
--Revise Python fundamentals and core data structures
--Learn and apply common DSA problem-solving patterns
--Improve problem-solving and pattern recognition skills
--Document daily progress publicly on GitHub
+- Practice DSA consistently with daily problem solving
+- Revise Python fundamentals and core data structures
+- Learn and apply common DSA problem-solving patterns
+- Improve problem-solving and pattern recognition skills
+- Document daily progress publicly on GitHub
 
 ---
 
