@@ -62,8 +62,7 @@
 | Challenge Progress| 32 / 70 |
 | LeetCode Problems Solved | 43 |
 | Hackerrank Problems Solved | 03 |
-| GitHub Commits | Regular |
-| Status | Consistent Learning 🚀 
+
 
 ---
 
